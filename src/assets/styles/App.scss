@@ -1,0 +1,13 @@
+@import './Vars.scss';
+@import './Media.scss';
+
+body {
+  font-family: $main-font;
+  background: $primary-color;
+  color: $secundary-color;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,16 @@
+@media only screen and (max-width: 767px) {
+  .main__content {
+    text-align: center;
+  }
+
+  input {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+  }
+  button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+}
